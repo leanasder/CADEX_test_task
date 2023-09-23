@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1695460170 source:c:\my_code\cad_ex_000\main.cpp
+	<iostream>
+	<math.h>
+	"dataTypes.h"
+	<vector>
+	<algorithm>
+
+1695458363 c:\my_code\cad_ex_000\datatypes.h
+
